@@ -1,0 +1,29 @@
+.nisham{
+    height: 100vh;
+    background: url(../components/images1/woman-with-paper-bags-shop.jpg);
+    background-size: cover;
+    /* position: absolute; */
+    top: 0px;
+}
+.main-font{
+    font-size: 70px !important;
+    width: 60%;
+    color: rgb(229, 229, 229);
+    
+}
+.main-button{
+    background-color: #FBD84B;
+    font-weight: 500;
+    padding: 15px ;
+}
+.navbar-cart{
+    background-color: rgb(183, 182, 182);
+}
+@media(Max-Width:700px){
+    .main-font{
+        font-size: 30px !important;
+        width: 60%;
+        color: rgb(234, 0, 0);
+        
+    }
+}
